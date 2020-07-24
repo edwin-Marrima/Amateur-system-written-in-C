@@ -1,0 +1,8 @@
+
+verificar_viaturas_vindoras_da_china_c	17	23	11
+
+visitar_funcionario_doente_c	17	27	11
+veerificar_cliente_atrasado_z	17	22	11
+mandar_reparar_honda_civic	17	22	11
+entrevista_com_09	17	1	12
+errr	17	12	12
